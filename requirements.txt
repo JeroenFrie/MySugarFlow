@@ -2,6 +2,6 @@ matlab==0.1
 openpyxl==3.0.9
 pandas==1.3.5
 Pillow==8.4.0
-pyrebase==3.0.27
+pyrebase==3.0.20
 Pyrebase4==4.1.0
 streamlit==1.2.0
